@@ -1,0 +1,7 @@
+streamlit
+streamlit-chat
+requests
+fastapi
+uvicorn
+python-dotenv
+anthropic
